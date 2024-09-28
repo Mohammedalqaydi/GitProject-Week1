@@ -1,6 +1,8 @@
 # GitProject-Week1
 Project Structure
+
 tasks.txt: A text file that serves as the task database, where tasks are added, removed, or updated during the project.
+
 Steps and Git Commands Used
 1-Set Up the Repository
 1.1. git init task-manager
