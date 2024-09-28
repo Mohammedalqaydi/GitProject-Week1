@@ -1,2 +1,2 @@
 - Learn Git basics
-- Set up Git repository
+- ## remove tasks
