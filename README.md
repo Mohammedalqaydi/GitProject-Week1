@@ -70,7 +70,7 @@ Steps and Git Commands Used#
    
 8.2 git push -u origin master
 
-This project serves as a practice to apply various Git concepts such as branching, merging, conflict resolution, rebase, and cherry-picking. It also covers remote repository management.
+This project serves as a practice to apply various Git concepts such as branching, merging, conflict resolution, rebase. It also covers remote repository management.
 
 
 
